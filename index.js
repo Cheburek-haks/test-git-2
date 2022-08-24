@@ -1,3 +1,9 @@
 console.log('Hello world!')
 
-console.log('My name is "Islam"')
+const age = 20
+
+if (age > 18){
+    console.log('Вы совершеннолетний')
+}else{
+    console.log('Вы дебил')
+}
